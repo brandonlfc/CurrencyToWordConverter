@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymAeTYapVcQx8iJwwqBoAMai9ngejzjZdMDEuHbrhU5Z9Z1pMVc44B5DjkFJ2OtcH4HW5ngo9kR7aVaDP6qtug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brand\\Projects\\UnleashedAssessment\\NumbersToEnglish\\NumbersToEnglish\\NumbersToEnglish.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\numericwordsconversion\\2.0.0\\numericwordsconversion.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

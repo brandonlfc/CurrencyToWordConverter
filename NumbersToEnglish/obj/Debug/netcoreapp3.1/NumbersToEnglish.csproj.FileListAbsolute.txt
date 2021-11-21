@@ -1,0 +1,15 @@
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\netcoreapp3.1\NumbersToEnglish.exe
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\netcoreapp3.1\NumbersToEnglish.deps.json
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\netcoreapp3.1\NumbersToEnglish.runtimeconfig.json
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\netcoreapp3.1\NumbersToEnglish.runtimeconfig.dev.json
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\netcoreapp3.1\NumbersToEnglish.dll
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\netcoreapp3.1\NumbersToEnglish.pdb
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\netcoreapp3.1\NumericWordsConversion.dll
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\netcoreapp3.1\NumbersToEnglish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\netcoreapp3.1\NumbersToEnglish.AssemblyInfoInputs.cache
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\netcoreapp3.1\NumbersToEnglish.AssemblyInfo.cs
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\netcoreapp3.1\NumbersToEnglish.csproj.CoreCompileInputs.cache
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\netcoreapp3.1\NumbersToEnglish.dll
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\netcoreapp3.1\NumbersToEnglish.pdb
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\netcoreapp3.1\NumbersToEnglish.genruntimeconfig.cache
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\netcoreapp3.1\NumbersToEnglish.csproj.AssemblyReference.cache

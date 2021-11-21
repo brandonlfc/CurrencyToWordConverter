@@ -1,0 +1,17 @@
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\net5.0\NumbersToEnglish.exe
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\net5.0\NumbersToEnglish.deps.json
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\net5.0\NumbersToEnglish.runtimeconfig.json
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\net5.0\NumbersToEnglish.runtimeconfig.dev.json
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\net5.0\NumbersToEnglish.dll
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\net5.0\ref\NumbersToEnglish.dll
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\net5.0\NumbersToEnglish.pdb
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\bin\Debug\net5.0\NumericWordsConversion.dll
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\net5.0\NumbersToEnglish.csproj.AssemblyReference.cache
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\net5.0\NumbersToEnglish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\net5.0\NumbersToEnglish.AssemblyInfoInputs.cache
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\net5.0\NumbersToEnglish.AssemblyInfo.cs
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\net5.0\NumbersToEnglish.csproj.CoreCompileInputs.cache
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\net5.0\NumbersToEnglish.dll
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\net5.0\ref\NumbersToEnglish.dll
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\net5.0\NumbersToEnglish.pdb
+C:\Users\brand\Projects\UnleashedAssessment\NumbersToEnglish\NumbersToEnglish\obj\Debug\net5.0\NumbersToEnglish.genruntimeconfig.cache
